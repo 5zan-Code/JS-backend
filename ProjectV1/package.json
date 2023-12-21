@@ -1,0 +1,15 @@
+{
+  "name": "projectv1",
+  "version": "1.0.0",
+  "description": "Creating a backend of video streaming website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "MERN"
+  ],
+  "author": "Faizan Ansari",
+  "license": "ISC"
+}
