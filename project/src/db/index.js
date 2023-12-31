@@ -1,6 +1,5 @@
 import mongoose from "mongoose";
-import 'dotenv/config'
-import {DB_Name} from '../constants.js'
+
 
 const db_url = "mongodb+srv://f97aizan:Faizan1@cluster1.gnzh36l.mongodb.net/?retryWrites=true&w=majority"
 
