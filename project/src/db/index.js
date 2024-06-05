@@ -5,7 +5,7 @@ import colors from "colors"
 
 dotenv.config()
 
-const db_url = "mongodb+srv://f97aizan:Faizan1@cluster1.gnzh36l.mongodb.net/?retryWrites=true&w=majority"
+const db_url = process.env.MONGO_URL
 
 const connectDB = async ()=>{
     try {
